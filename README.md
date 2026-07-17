@@ -150,23 +150,6 @@ The frontend is a standard Next.js app and deploys cleanly to **Vercel**:
 Contracts deploy to Linea Sepolia via `npm run deploy` in `web3/`.
 
 ---
-
-## 🗺️ Roadmap
-
-- **Milestone-based releases** — escrow funds and release them as verified milestones are met.
-- **Backer returns dashboard** — track contributions and repayments across projects.
-- **Reputation & attestations** — on-chain steward reputation to build trust.
-- **Multi-chain support** — expand beyond Linea to other L2s.
-- **Impact verification** — integrate oracles / attestations for verifiable climate outcomes.
-- **Fiat on-ramp** — lower the barrier for non-crypto-native backers.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Fork the repo, create a feature branch, and open a
-pull request.
-
 ## 📄 License
 
 Released under the MIT License.
