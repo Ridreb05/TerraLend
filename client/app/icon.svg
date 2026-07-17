@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TerraLend">
+  <defs>
+    <linearGradient id="tl" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.55" stop-color="#0D9488"/>
+      <stop offset="1" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="13" fill="url(#tl)"/>
+  <path d="M24 11c-7 3.2-11 8-11 14.6C13 31.9 17.7 37 24 37c-3-4.2-3.2-9.4-.8-14.2C25.7 18.4 24.9 14 24 11Z" fill="#ECFDF5"/>
+  <path d="M24 11c7 3.2 11 8 11 14.6C35 31.9 30.3 37 24 37c3-4.2 3.2-9.4.8-14.2C22.3 18.4 23.1 14 24 11Z" fill="#A7F3D0" fill-opacity="0.9"/>
+  <circle cx="24" cy="26" r="2.4" fill="#F59E0B"/>
+</svg>

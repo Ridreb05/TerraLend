@@ -1,0 +1,17 @@
+{
+  "name": "terralend-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for TerraLend — decentralized crowdlending for climate & impact projects.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network lineaSepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.14"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
