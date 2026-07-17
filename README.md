@@ -1,6 +1,6 @@
 # 🌱 TerraLend
 
-**Decentralized crowdlending for climate & impact projects.**
+**Decentralized crowdlending platform for climate & impact projects.**
 
 TerraLend connects climate builders with backers around the world. Anyone can
 launch a project and raise funds two ways — as a **Grant** (non-repayable
