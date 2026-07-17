@@ -149,7 +149,4 @@ The frontend is a standard Next.js app and deploys cleanly to **Vercel**:
 
 Contracts deploy to Linea Sepolia via `npm run deploy` in `web3/`.
 
----
-## 📄 License
 
-Released under the MIT License.
