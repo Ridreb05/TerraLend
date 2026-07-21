@@ -8,7 +8,7 @@ impact contribution) or a **Green Loan** (repayable capital that returns funds t
 backers pro-rata on repayment). Every contribution, repayment, and withdrawal is
 a transparent transaction on the **Linea Sepolia** testnet.
 
-> Fund the projects  regenerating our planet.
+> Fund the projects regenerating our planet.
 
 ---
 
