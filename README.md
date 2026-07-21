@@ -5,7 +5,7 @@
 TerraLend connects climate builders with backers around the world. Anyone can
 launch a project and raise funds two ways — as a **Grant** (non-repayable
 impact contribution) or a **Green Loan** (repayable capital that returns funds to
-backers pro-rata on repayment). Every contribution, repayment, and withdrawal is
+backers pro-rata on repayment).   Every contribution, repayment, and withdrawal is
 a transparent transaction on the **Linea Sepolia** testnet.
 
 > Fund the projects regenerating our planet.
